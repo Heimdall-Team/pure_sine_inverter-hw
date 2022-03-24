@@ -1,2 +1,2 @@
-# pure_sine_inverter-hw
+# Pure Sine Inverter Hardware
 Hardware developed for the Pure Sine Inverter 
